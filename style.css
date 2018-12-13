@@ -37,3 +37,9 @@ footer {
   }
   .row.content {height:auto;}
 }
+.b {font-size: 23px;
+}
+.c::before {content: "•"; color: black ;
+font-size: 25px;}
+.c {font-size: 20px}
+.a::before {content: "•"; color: black ;}
