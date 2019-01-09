@@ -47,3 +47,6 @@ footer {
 font-size: 25px;}
 .c {font-size: 20px}
 .a::before {content: "•"; color: black ;}
+.p{
+  font-size: 20px
+}
