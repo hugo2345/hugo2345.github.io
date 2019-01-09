@@ -2,6 +2,8 @@ body {
   background: url('lacs-et-plans-d-eau.jpg')center;
   background-repeat:no-repeat;
   background-size: cover;
+
+
 }
 
 .col-sm-8 {
@@ -49,4 +51,12 @@ font-size: 25px;}
 .a::before {content: "•"; color: black ;}
 .p{
   font-size: 20px
+}
+/* Déclaration de la police */
+@font-face {
+font-family: "philosopher";
+src: url('philosopher.zip');
+}
+.police{
+font-family: "philosopher";
 }
