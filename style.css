@@ -54,9 +54,9 @@ font-size: 25px;}
 }
 /* Déclaration de la police */
 @font-face {
-font-family: "philosopher";
-src: url('philosopher.zip');
+font-family: "Providence";
+src: url('Providence.ttf');
 }
 .police{
-font-family: "philosopher";
+font-family: "Providence";
 }
