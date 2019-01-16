@@ -60,3 +60,7 @@ src: url('Providence.ttf');
 .police{
 font-family: "Providence";
 }
+#collapse navbar-collapse.floatable {
+	position: fixed;
+	top: 10px; // non-obligatoire
+}
