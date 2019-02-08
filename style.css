@@ -43,14 +43,14 @@ footer {
   }
   .row.content {height:auto;}
 }
-.b {font-size: 23px;
+.b {font-size: 29px;
 }
 .c::before {content: "→"; color: black ;
-font-size: 25px;}
-.c {font-size: 20px}
+font-size: 29px;}
+.c {font-size: 29px}
 .a::before {content: "•"; color: black ;}
 .p{
-  font-size: 20px
+  font-size: 29px
 }
 /* Déclaration de la police */
 @font-face {
